@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Xiaoyu Chen (陈晓宇)
+# Xiaoyu Chen,PhD (陈晓宇)
 
 <br>
 
@@ -29,7 +29,7 @@ Building #1, East Campus, Shanghai University, Nanchen Rd #333, Baoshan District
 
 Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-chen@shu.edu.cn); [xiaoyu.chen0928@gmail.com](mailto:xiaoyu.chen0928@gmail.com)
 
-> Last Update: March 2023
+> Last Update: June 2023
 
 
 ---
@@ -38,8 +38,8 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## News
 
-- I have a short research paper accepted by iConference 2023.
-- I received the best dissertation talk award at ASIS&T SIG-KM International Research Symposium 2022.
+- My postgrad student and I have won 2nd place in SIG-III International Paper Contest Award, which will be presented at the 2023 ASIS&T annual meeting!
+  
 
 
 
