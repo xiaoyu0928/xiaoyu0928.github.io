@@ -1,5 +1,5 @@
 ##  xiaoyu0928.github.io
 
-Shanghai University
+Assistant Professor at Shanghai University
 
-Xiaoyu Chen
+Xiaoyu Chen,PhD
