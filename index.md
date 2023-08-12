@@ -112,7 +112,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### PhD Dissertation
 
-- **Chen, X. (2021).** [*Study of Online Celebrities Who Sell Knowledge: Perceived Attractiveness and Users Willingness to Pay](https://dr.ntu.edu.sg/handle/10356/152694). Doctoral thesis, Nanyang Technological University, Singapore. DOI: 10.32657/10356/152694 
+- **Chen, X. (2021).** [Study of Online Celebrities Who Sell Knowledge: Perceived Attractiveness and Users Willingness to Pay](https://dr.ntu.edu.sg/handle/10356/152694). Doctoral thesis, Nanyang Technological University, Singapore. DOI: 10.32657/10356/152694 
 - **Thesis Advisory Committee:** Alton Chua (WKWSCI); L.G. Pee (WKWSCI); Joanna Sin (WKWSCI), Ben Choi (NBS)
 - **Slides for the oral defense:** [PPT Slides](https://drive.google.com/file/d/1CnIpkU7NGQE9YEZF0EMPQqP8kOJQfVmf/view?usp=sharing)
 - **Best Dissertation Talk Award**: ASIS&T SIG-KM International Research Symposium 2022
@@ -128,8 +128,8 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Journal Publications (* corresponding author)
 
-- **Chen, X\*.** (forthcoming). I[nvestigating users’ sustained information seeking on academic social networking sites](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-04-2022-0219&sa=D&sntz=1&usg=AOvVaw3NSNEGq2cFPg6wk8ummj-P). ***Aslib Journal of Information Management***. 
-- **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FINTR-07-2020-0378&sa=D&sntz=1&usg=AOvVaw2wgv-dDw5FCykxXAZZaqdA). ***Internet Research***,32(3),916-942. **[Coverage from** [***Information Matters***](https://www.google.com/url?q=https%3A%2F%2Finformationmatters.org%2F2022%2F05%2Fwho-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china%2F&sa=D&sntz=1&usg=AOvVaw0XgIJGxNM4C7WTVPtYqsHN)**]**
+- **Chen, X\*.** (forthcoming). [Investigating users’ sustained information seeking on academic social networking sites](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2022-0219/full/html). ***Aslib Journal of Information Management***. 
+- **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://doi.org/10.1108/INTR-07-2020-0378). ***Internet Research***,32(3),916-942. **[Coverage from** [***Information Matters***](https://informationmatters.org/2022/05/who-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china/)**]**
 - Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research***, *43*(3), 101108. 
 - Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). **Canadian Journal of Information and Library Science***,*44* (1): 38-69.
 - Fu, S., **Chen, X\*.,** & Zheng, H. (2021). [Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F0144929X.2020.1716848&sa=D&sntz=1&usg=AOvVaw0mtjOLtYEsALb0bV_dfKqg). ***Behaviour & Information Technology****,40* (7): 663-675 *.*  ([PPT Slides](https://drive.google.com/file/d/1_23CviQLxQPHFnZwdnR3rirRiYjsdBcT/view?usp=sharing))
