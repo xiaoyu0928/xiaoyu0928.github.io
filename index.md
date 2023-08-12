@@ -7,21 +7,21 @@ layout: default
 
 ## About Me
 
-I'm an Assistant Professor in the Department of Library and Information Science of the School of Cultural Heritage and Information Management at [Shanghai University](https://www.google.com/url?q=https%3A%2F%2Fen.shu.edu.cn%2F&sa=D&sntz=1&usg=AOvVaw0qKn1I215U5EAbczzsp88T), China.
+I'm an Assistant Professor in the Department of Library and Information Science of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
 
-I hold a PhD in Information Studies from [Wee Kim Wee School of Communication and Information](http://www.google.com/url?q=http%3A%2F%2Fwww.wkwsci.ntu.edu.sg%2FPages%2FHome.aspx&sa=D&sntz=1&usg=AOvVaw2pNVd7Lm7gNqTDdCpCwdo1) of [Nanyang Technological University, Singapore](https://www.google.com/url?q=https%3A%2F%2Fwww.ntu.edu.sg%2FPages%2Fhome.aspx&sa=D&sntz=1&usg=AOvVaw2HhKjsbC8Zumt_lSTMd8rG).
+I hold a PhD in Information Studies from [Wee Kim Wee School of Communication and Information](https://www.ntu.edu.sg/wkwsci) of [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/index).
 
 My research interests focus on ***3U***, namely, user information behavior,user cyberpsychology, and user-generated content, particularly in the context of digital technologies. 
 
-My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://www.google.com/url?q=https%3A%2F%2Fpersonal.ntu.edu.sg%2Faltonchua%2F&sa=D&sntz=1&usg=AOvVaw0mwBmB4XIb0yB0ffX85A5-)and [Dr. L.G. Pee](https://www.google.com/url?q=https%3A%2F%2Fpersonal.ntu.edu.sg%2Fpeelg%2F&sa=D&sntz=1&usg=AOvVaw2kDvBVZwmDXk55k0cmxKQ_). 
+My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://www.ntu.edu.sg/index)and [Dr. L.G. Pee](https://personal.ntu.edu.sg/peelg/). 
 
-I hold a master’s degree in Information Science of [Wuhan University](https://www.google.com/url?q=https%3A%2F%2Fen.whu.edu.cn%2F&sa=D&sntz=1&usg=AOvVaw1VxNrrdkS6tvCtQ2ggjL3s), and a bachelor’s degree in Information Management & Information Systems of [Huazhong Agricultural University](https://www.google.com/url?q=https%3A%2F%2Fwww.hzau.edu.cn%2Fen%2FHOME.htm&sa=D&sntz=1&usg=AOvVaw2sCdQNPxcFvg1HiNVGJE0f), both of which are based in [Wuhan](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWuhan&sa=D&sntz=1&usg=AOvVaw23sxj3mWQ62Uo5m6kx5Ujs), a City of Punk in China.
+I hold a master’s degree in Information Science of [Wuhan University](https://en.whu.edu.cn/), and a bachelor’s degree in Information Management & Information Systems of [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
 
 If you are exploring the possibility of doing research in areas similar to my interests and are keen to become a research-active scholar, feel free to drop me a note. I am most happy to bounce off ideas with you.
 
-Before I went to Singapore to pursue my PhD degree, I had worked at [Xinhua News Agency](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FXinhua_News_Agency&sa=D&sntz=1&usg=AOvVaw1xEB0tAg6nydaeztOBzlCo), Hubei Branch ( July 2016 - December 2016). 
+Before I went to Singapore to pursue my PhD degree, I had worked at [Xinhua News Agency](https://en.wikipedia.org/wiki/Xinhua_News_Agency), Hubei Branch ( July 2016 - December 2016). 
 
-I was born in [Jinzhai](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJinzhai_County&sa=D&sntz=1&usg=AOvVaw1nOxaWm12BTbXTIlV7qRpz) County, [Anhui](https://www.google.com/url?q=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnhui&sa=D&sntz=1&usg=AOvVaw1e7Xu_6FnJ9bwahXw54ynw) Province, P. R. China, also known as "the Cradle of Generals."
+I was born in [Jinzhai](https://en.wikipedia.org/wiki/Jinzhai_County) County, [Anhui](https://en.wikipedia.org/wiki/Anhui) Province, P. R. China, also known as "the Cradle of Generals."
 
 **Address:**
 
@@ -39,6 +39,7 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 ## News
 
 - My postgrad student and I have won 2nd place in SIG-III International Paper Contest Award, which will be presented at the 2023 ASIS&T annual meeting!
+- Two research posters have been accepted by 2023 ASIS&T annual meeting, which will be held in London, UK.
   
 
 
@@ -111,7 +112,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### PhD Dissertation
 
-- **Chen, X. (2021).** [*Study of Online Celebrities Who Sell Knowledge: Perceived Attractiveness and Users Willingness to Pa*y](https://www.google.com/url?q=https%3A%2F%2Fhdl.handle.net%2F10356%2F152694&sa=D&sntz=1&usg=AOvVaw2gzGPlVhR2mquW1lC1fUQm). Doctoral thesis, Nanyang Technological University, Singapore. DOI: 10.32657/10356/152694 
+- **Chen, X. (2021).** [*Study of Online Celebrities Who Sell Knowledge: Perceived Attractiveness and Users Willingness to Pay](https://dr.ntu.edu.sg/handle/10356/152694). Doctoral thesis, Nanyang Technological University, Singapore. DOI: 10.32657/10356/152694 
 - **Thesis Advisory Committee:** Alton Chua (WKWSCI); L.G. Pee (WKWSCI); Joanna Sin (WKWSCI), Ben Choi (NBS)
 - **Slides for the oral defense:** [PPT Slides](https://drive.google.com/file/d/1CnIpkU7NGQE9YEZF0EMPQqP8kOJQfVmf/view?usp=sharing)
 - **Best Dissertation Talk Award**: ASIS&T SIG-KM International Research Symposium 2022
