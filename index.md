@@ -121,7 +121,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Monograph/Book Chapter
 
-- **Chen, X.** (in progress). *Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.*(https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
+- **Chen, X.** (in progress). [*Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.]*(https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
 - **Chen, X.****,** & Chua, A. Y. (forthcoming). The role of influencer endorsements in users' willingness to pay for knowledge products: An empirical investigation. *The Elgar Companion to Information Economics*. **Edward Elgar Publishing.**
 
 <br>
@@ -155,7 +155,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Conference Papers/Poster
 
-- Chua, A.Y., & **Chen, X**. (2022). O[nline “helpful” lies: An empirical study of helpfulness in fake and authentic online reviews](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-030-96957-8_10&sa=D&sntz=1&usg=AOvVaw1IGLwyuX37Y0kanRzCz-tA). In ***Proceedings of 17th International Conference on Information*** *(iConference 2022)*: pp. 91-99.
+- Chua, A.Y., & **Chen, X**. (2022). [Online “helpful” lies: An empirical study of helpfulness in fake and authentic online reviews](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-030-96957-8_10&sa=D&sntz=1&usg=AOvVaw1IGLwyuX37Y0kanRzCz-tA). In ***Proceedings of 17th International Conference on Information*** *(iConference 2022)*: pp. 91-99.
 - **Chen, X.,** & Chua, A. Y. (2021). [Exploring the perceived attractiveness of online celebrities who sell knowledge: A self-branding perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.436&sa=D&sntz=1&usg=AOvVaw1NkoBlWADq283nBOQfS8s8). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** (*ASIS&T 2021*): pp. 60-69.
 - Chua, A. Y., & **Chen, X.** (2021). [Analyzing readers' responses to fake news on Facebook](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.532&sa=D&sntz=1&usg=AOvVaw1u6LYaBcWnFoObDoSp4WBf). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2021)*: pp. 694-696.
 - Zheng, H., **Chen, X.,** & Fu, S. (2020). [An exploration of determinants of cyberchondria: A moderated mediation analysis](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.214&sa=D&sntz=1&usg=AOvVaw2fpLNi-zAYjZ8jmA1li5U8). In ***Proceedings of 83rd Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2020)*. 
