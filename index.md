@@ -121,8 +121,8 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Monograph/Book Chapter
 
-- **Chen, X.** (in progress). [*Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.]*(https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
-- **Chen, X.****,** & Chua, A. Y. (forthcoming). The role of influencer endorsements in users' willingness to pay for knowledge products: An empirical investigation. *The Elgar Companion to Information Economics*. **Edward Elgar Publishing.**
+- **Chen, X.** (2024). [*Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.*](https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
+- **Chen, X.****,** & Chua, A. Y. (2024).[*The role of influencer endorsements in users' willingness to pay for knowledge products: An empirical investigation.*](https://www.e-elgar.com/shop/gbp/the-elgar-companion-to-information-economics-9781802203950.html).*The Elgar Companion to Information Economics*. **Edward Elgar Publishing.**
 
 <br>
 
