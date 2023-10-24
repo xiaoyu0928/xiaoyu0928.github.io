@@ -291,21 +291,22 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Technical Program Committee Member**
 
-  International Conference on Information Management (ICIM): 2022
+  International Conference on Information Management (ICIM)
 
-  European Advanced Educational Technology Conference (EAET): 2022
+  European Advanced Educational Technology Conference (EAET)
+
+  International Conference on E-Business and Internet (ICEBI)
 
 ### Awards & Honors
 
+- ASIS&T SIG-ILS Paper Completion, Best Paper Award in Sociotechnical Concerns (2023)
+- ASIS&T SIG-III International Paper Contest Award, 2nd Place (2023)
+- Shanghai Leading Talents (Overseas) Project (2022)
+- Shanghai University Early Career Research Award (2022)
+- ASIS&T SIG-KM Symposium Best Dissertation Talk (2022)
 - Chinese Government Award for Outstanding Self-financed Students Abroad (2021)
-- ASIS&T SIG-SM Inaugural Best Paper Award (2021)
-- ASIS&T SIG-IEP Workshop Free Registration Award (2020)
-- Reviewer with Recognition, Aslib Journal of Information Management (2018, 2019, 2020)
-- NTU Research Scholarship (2017.01 - 2021.01)
-- Award for Outstanding Graduates (top 5%), Wuhan University, 2016
-- National Scholarship for Postgraduate (top 10%), Ministry of Education of China, 2015
-- Award for Outstanding Undergraduates (top 10%), Huazhong Agricultural University, 2013
-- Scholarship for Excellent Undergraduates (top 15%), Huazhong Agricultural University: 2010, 2011, 2012, and 2013
+- ASIS&T SIG-SM Inaugural Best Paper Award-Winner (2021)
+- Research Scholarship Awarded by Nanyang Technological University (2017 – 2021)
 
 ### Hobbies
 
