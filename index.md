@@ -29,7 +29,7 @@ Building #1, East Campus, Shanghai University, Nanchen Rd #333, Baoshan District
 
 Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-chen@shu.edu.cn); [xiaoyu.chen0928@gmail.com](mailto:xiaoyu.chen0928@gmail.com)
 
-> Last Update: September 2023
+> Last Update: November 2023
 
 
 ---
@@ -38,8 +38,8 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## News
 
-- My postgrad student and I have won 2nd place in SIG-III International Paper Contest Award, which will be presented at the 2023 ASIS&T annual meeting!
-- Two research posters have been accepted by 2023 ASIS&T annual meeting, which will be held in London, UK.
+- One short research paper and one application for Early Career Colloquium have been accepted by iConference 2024, which will be held in Jilin, China.
+- I won the "Best Paper Award in Sociotechnical Concerns " in 2023 ASIS&T SIG-ILS Paper Completion.
   
 
 
