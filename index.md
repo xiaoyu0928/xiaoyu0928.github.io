@@ -155,6 +155,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Conference Papers/Poster
 
+-**Chen, X.,** He, Y., Zheng, H., Lu, J. (2023). [Audience video game engagement in a live streaming context: Examining the role of perceived influence of game streamers from the self-determination perspective](https://doi.org/10.1007/978-3-031-28032-0_22) In ***Proceedings of 18th International Conference on Information*** *(iConference 2023)*: pp. 257-267. 
 - Chua, A.Y., & **Chen, X**. (2022). [Online “helpful” lies: An empirical study of helpfulness in fake and authentic online reviews](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-030-96957-8_10&sa=D&sntz=1&usg=AOvVaw1IGLwyuX37Y0kanRzCz-tA). In ***Proceedings of 17th International Conference on Information*** *(iConference 2022)*: pp. 91-99.
 - **Chen, X.,** & Chua, A. Y. (2021). [Exploring the perceived attractiveness of online celebrities who sell knowledge: A self-branding perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.436&sa=D&sntz=1&usg=AOvVaw1NkoBlWADq283nBOQfS8s8). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** (*ASIS&T 2021*): pp. 60-69.
 - Chua, A. Y., & **Chen, X.** (2021). [Analyzing readers' responses to fake news on Facebook](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.532&sa=D&sntz=1&usg=AOvVaw1u6LYaBcWnFoObDoSp4WBf). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2021)*: pp. 694-696.
