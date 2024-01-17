@@ -7,15 +7,15 @@ layout: default
 
 ## About Me
 
-I'm an Assistant Professor in the Department of Library and Information Science of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
+I'm an Assistant Professor in the Department of Library and Information Studies of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
 
 I hold a PhD in Information Studies from [Wee Kim Wee School of Communication and Information](https://www.ntu.edu.sg/wkwsci) of [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/index).
 
-My research interests focus on ***3U***, namely, user information behavior,user cyberpsychology, and user-generated content, particularly in the context of digital technologies. 
+My research interests focus on ***3U***, namely, user information behavior, user cyberpsychology, and user-generated content, particularly in the context of digital technologies. 
 
 My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://www.ntu.edu.sg/index)and [Dr. L.G. Pee](https://personal.ntu.edu.sg/peelg/). 
 
-I hold a master’s degree in Information Science of [Wuhan University](https://en.whu.edu.cn/), and a bachelor’s degree in Information Management & Information Systems of [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
+I hold a master’s degree in Information Science from [Wuhan University](https://en.whu.edu.cn/) and a bachelor’s degree in Information Management & Information Systems from [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
 
 If you are exploring the possibility of doing research in areas similar to my interests and are keen to become a research-active scholar, feel free to drop me a note. I am most happy to bounce off ideas with you.
 
@@ -38,8 +38,8 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## News
 
-- One short research paper and one application for Early Career Colloquium have been accepted by iConference 2024, which will be held in Jilin, China.
-- I won the "Best Paper Award in Sociotechnical Concerns " in 2023 ASIS&T SIG-ILS Paper Completion.
+- One short research paper and one application for the Early Career Colloquium have been accepted by iConference 2024, which will be held in Jilin, China.
+- I won the "Best Paper Award in Sociotechnical Concerns " in the 2023 ASIS&T SIG-ILS International Paper Competition.
   
 
 
@@ -98,15 +98,15 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Research Interests
 
-- **Topics:** Cyberpsychology, Human information behaviour, Social and economic impacts of digital technologies
+- **Topics:** Cyberpsychology, Human information behavior, Social and economic impacts of digital technologies
 
 
 
-- **Philosophy:** My research trajectory concentrates largely on "3U"-- user information behavior, user cyberpsychology, and user-generated content. To this end, I attempt to adopt a full-cycle approach to moving my research forward. It begins with a certain "action" that raises my interest (i.e., user information behavior), followed by the "underlying mechanism" (i.e., user cyberpsychology) that allows me to explicate the action behaved by users, and finally looking into the outcome (i.e., user-generated content).
+- **Philosophy:** My research trajectory concentrates largely on "3U"-- user information behavior, user cyberpsychology, and user-generated content. To this end, I attempt to adopt a full-cycle approach to moving my research forward. It begins with a certain "action" that raises my interest (i.e., user information behavior), followed by the "underlying mechanism" (i.e., user cyberpsychology) that allows me to explicate the action behaved by users, and finally, look into the outcome (i.e., user-generated content).
 
 
 
-- **Methodologies:** I use mainly quantitative methods including experiments and surveys in my work. On occasion, I have used qualitative methods such as interviews, qualitative content analysis, and qualitative comparative analysis to complement my quantitative research. My skills do not include advanced forms of econometric modeling, simulation, or data mining. However, I am learning the basic knowledge and applications of economic analyses, such as difference-in-differences, instrumental variables, and regression discontinuity, as I believe that field (quasi-) experiment designs and causal inference will be increasingly popular in information behavior research. Also, I'm interested in design science research that relates to my study areas.
+- **Methodologies:** I use mainly quantitative methods, including experiments and surveys, in my work. On occasion, I have used qualitative methods such as interviews, qualitative content analysis, and qualitative comparative analysis to complement my quantitative research. My skills do not include advanced forms of econometric modeling, simulation, or data mining. However, I am learning the basic knowledge and applications of economic analyses, such as difference-in-differences, instrumental variables, and regression discontinuity, as I believe that field (quasi-) experiment designs and causal inference will be increasingly popular in information behavior research. Also, I'm interested in design science research that relates to my study areas.
 
 <br>
 
@@ -121,24 +121,24 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Monograph/Book Chapter
 
-- **Chen, X.** (2024). [*Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.*](https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
+- **Chen, X.** (2023). [*Attraction of Knowledge Celebrities: How They Motivate Users to Pay for Knowledge.*](https://www.routledge.com/Attraction-of-Knowledge-Celebrities-How-They-Motivate-Users-to-Pay-for/Chen/p/book/9781032669458#:~:text=Description,and%20sell%20knowledge%20products%20online.) **Routledge**.
 - **Chen, X.****,** & Chua, A. Y. (2024).[*The role of influencer endorsements in users' willingness to pay for knowledge products: An empirical investigation.*](https://www.e-elgar.com/shop/gbp/the-elgar-companion-to-information-economics-9781802203950.html).*The Elgar Companion to Information Economics*. **Edward Elgar Publishing.**
 
 <br>
 
 ### Refereed Journal Publications (* corresponding author)
 
-- **Chen, X\*.** (forthcoming). [Investigating users’ sustained information seeking on academic social networking sites](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2022-0219/full/html). ***Aslib Journal of Information Management***. 
-- **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://doi.org/10.1108/INTR-07-2020-0378). ***Internet Research***,32(3),916-942. **[Coverage from** [***Information Matters***](https://informationmatters.org/2022/05/who-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china/)**]**
+- **Chen, X\*.** (2023). [Investigating users’ sustained information seeking on academic social networking sites](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2022-0219/full/html). ***Aslib Journal of Information Management***,*75*(6),1129-1151.
+- **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://doi.org/10.1108/INTR-07-2020-0378). ***Internet Research***,*32*(3),916-942.[**Coverage from** [***Information Matters***](https://informationmatters.org/2022/05/who-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china/)**]**
 - Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research***, *43*(3), 101108. 
 - Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). **Canadian Journal of Information and Library Science***,*44* (1): 38-69.
-- Fu, S., **Chen, X\*.,** & Zheng, H. (2021). [Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F0144929X.2020.1716848&sa=D&sntz=1&usg=AOvVaw0mtjOLtYEsALb0bV_dfKqg). ***Behaviour & Information Technology****,40* (7): 663-675 *.*  ([PPT Slides](https://drive.google.com/file/d/1_23CviQLxQPHFnZwdnR3rirRiYjsdBcT/view?usp=sharing))
-- Li, C., **Chen, X\*.,** & Bi, X*. (2021). [Wearable activity trackers for promoting physical activity: A systematic meta-analytic review](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijmedinf.2021.104487&sa=D&sntz=1&usg=AOvVaw2r43YbT7p6lRrWUxIB-pay). **International Journal of Medical Informatics**, 152*, 104487. 
-- Zhao, H., Fu, S., & **Chen, X\*.** (2020). [Promoting users’ intention to share health articles on social media: The role of confirmation bias](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ipm.2020.102354&sa=D&sntz=1&usg=AOvVaw3IcDMjLwS4CFv4x8NrW5E2). ***Information Processing & Management**, 57* (6), 102354. (*Note:* authors have equal contribution; **ASIS&T SIG SM Best Paper Award**) ([Recording of the presentation on YouTube](https://youtu.be/4Qw3dBT9NCY)) ([PPT Slides](https://drive.google.com/file/d/1FiznTYRxDeANzrx6WmmujYBL0vDe2pKA/view?usp=sharing))
+- Fu, S., **Chen, X\*.,** & Zheng, H. (2021). [Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F0144929X.2020.1716848&sa=D&sntz=1&usg=AOvVaw0mtjOLtYEsALb0bV_dfKqg). ***Behaviour & Information Technology***,*40* (7): 663-675.  ([PPT Slides](https://drive.google.com/file/d/1_23CviQLxQPHFnZwdnR3rirRiYjsdBcT/view?usp=sharing))
+- Li, C., **Chen, X\*.,** & Bi, X*. (2021). [Wearable activity trackers for promoting physical activity: A systematic meta-analytic review](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijmedinf.2021.104487&sa=D&sntz=1&usg=AOvVaw2r43YbT7p6lRrWUxIB-pay). ***International Journal of Medical Informatics***, *152*, 104487. 
+- Zhao, H., Fu, S., & **Chen, X\*.** (2020). [Promoting users’ intention to share health articles on social media: The role of confirmation bias](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ipm.2020.102354&sa=D&sntz=1&usg=AOvVaw3IcDMjLwS4CFv4x8NrW5E2). ***Information Processing & Management***, *57* (6), 102354. (*Note:* authors have equal contribution; **ASIS&T SIG SM Best Paper Award**) ([Recording of the presentation on YouTube](https://youtu.be/4Qw3dBT9NCY)) ([PPT Slides](https://drive.google.com/file/d/1FiznTYRxDeANzrx6WmmujYBL0vDe2pKA/view?usp=sharing))
 - Chua, A.Y *., & **Chen, X.** (2020). [Rumor retransmission on Twitter: Message characteristics, user characteristics and retransmission outcomes](http://www.google.com/url?q=http%3A%2F%2Fdline.info%2Ffpaper%2Fjdim%2Fv18i1%2Fjdimv18i1_3.pdf&sa=D&sntz=1&usg=AOvVaw0OBlHYo1191xKLzxzur-aU). **Journal of Digital Information Management**, 18* (1), 21-32.
 - Lou, C., Tan, S. S., & **Chen, X.** (2019). [Investigating consumer engagement with influencer-vs. brand-promoted ads: The roles of source and disclosure](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F15252019.2019.1667928&sa=D&sntz=1&usg=AOvVaw3r99Pqvq2ufZ44Q8AyBa2c). ***Journal of Interactive Advertising***, *19* (3):169-186. 
-- **Chen, X\*.,** Chua, A. Y., & Deng, S. (2018). [Comparing the web and mobile platforms of a social Q&A service from the user’s perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-06-2017-0149&sa=D&sntz=1&usg=AOvVaw2nJwzxdk1bCMtznQ0P4sCx). ***Aslib Journal of Information Management**, 70* (2):176-191. 
-- Deng, S., Lin, Y*., Liu, Y., **Chen, X.,** & Li, H. (2017). [How do personality traits shape information-sharing behaviour in social media? Exploring the mediating effect of generalized trust](http://www.google.com/url?q=http%3A%2F%2Fwww.informationr.net%2Fir%2F22-3%2Fpaper763.html&sa=D&sntz=1&usg=AOvVaw2WVJiZH6H-fNjw0cyAc5AS). **Information Research**, 22* (3): 1-37. 
+- **Chen, X\*.,** Chua, A. Y., & Deng, S. (2018). [Comparing the web and mobile platforms of a social Q&A service from the user’s perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-06-2017-0149&sa=D&sntz=1&usg=AOvVaw2nJwzxdk1bCMtznQ0P4sCx). ***Aslib Journal of Information Management***, *70* (2):176-191. 
+- Deng, S., Lin, Y*., Liu, Y., **Chen, X.,** & Li, H. (2017). [How do personality traits shape information-sharing behaviour in social media? Exploring the mediating effect of generalized trust](http://www.google.com/url?q=http%3A%2F%2Fwww.informationr.net%2Fir%2F22-3%2Fpaper763.html&sa=D&sntz=1&usg=AOvVaw2WVJiZH6H-fNjw0cyAc5AS). ***Information Research***, *22* (3): 1-37. 
 
 <br>
 
@@ -172,17 +172,13 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Chen, X.,** & Fu, S. (2019). [Who sells knowledge to you? Understanding online identities of knowledge influencers on a pay-for-knowledge platform](http://www.google.com/url?q=http%3A%2F%2F2019.cswimworkshop.org%2Fwp-content%2Fuploads%2F2017%2F01%2FCSWIM2019-Proceedings-3.pdf&sa=D&sntz=1&usg=AOvVaw0j8JLp8ggf-Aqueaoc3jYh). Paper presented at *the* ***13th China Summer Workshop on Information Management*** *(CSWIM 2019)*: June 29-30, 2019: Shenzhen, China.
 
-
-
-
-
 ---
 
 <br>
 
 # Teaching
 
-- **Instructor,** School of Cultural Heritage and Information Management, Shanghai Universit
+- **Instructor,** School of Cultural Heritage and Information Management, Shanghai University
 
   - Information Collection and Analytics (Undergrad selective, 2022-2023 Autumn Trimester)
 
