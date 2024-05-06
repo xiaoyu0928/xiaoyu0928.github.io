@@ -11,6 +11,9 @@
     margin: 0;
     padding: 0;
     width: 100%; // Full width of its container
+    border: none; // Ensure no border is applied
+    background: none; // Ensure no background different from others
+    box-shadow: none; // Ensure no shadow is causing visual framing
   }
 
   li {
