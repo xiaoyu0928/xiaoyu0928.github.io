@@ -25,6 +25,16 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
   </head>
   <body>
+    <nav>
+        <ul>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#news">News</a></li>
+          <li><a href="#education">Education</a></li>
+          <li><a href="#research">Research</a></li>
+          <li><a href="#teaching">Teaching</a></li>
+          <li><a href="#others">Others</a></li>
+        </ul>
+      </nav>
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -58,16 +68,6 @@
           </ul>
         {% endif %}
       </header>
-      <nav>
-        <ul>
-          <li><a href="#about-me">About Me</a></li>
-          <li><a href="#news">News</a></li>
-          <li><a href="#education">Education</a></li>
-          <li><a href="#research">Research</a></li>
-          <li><a href="#teaching">Teaching</a></li>
-          <li><a href="#others">Others</a></li>
-        </ul>
-      </nav>
       <section>
 
       {{ content }}
