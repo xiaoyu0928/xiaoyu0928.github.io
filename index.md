@@ -5,7 +5,7 @@ layout: default
 
 <br>
 
-## About Me
+## <a id="about-me"></a>About Me
 
 I'm an Assistant Professor in the Department of Library and Information Studies of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
 
@@ -36,7 +36,7 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 <br>
 
-## News
+## <a id="news"></a>News
 
 - One short research paper and one application for the Early Career Colloquium have been accepted by iConference 2024, which will be held in Jilin, China.
 - I won the "Best Paper Award in Sociotechnical Concerns " in the 2023 ASIS&T SIG-ILS International Paper Competition.
@@ -48,7 +48,7 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 <br>
 
-## Education
+## <a id="education"></a>Education
 
 <div align="left">
         <strong> Nanyang Technological University, Singapore (Aug 2017 - Dec 2021) </strong>
@@ -94,7 +94,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 <br>
 
-# Research
+# <a id="research"></a>Research
 
 ### Research Interests
 
@@ -177,7 +177,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 <br>
 
-# Teaching
+# <a id="teaching"></a>Teaching
 
 - **Instructor,** School of Cultural Heritage and Information Management, Shanghai University
 
@@ -216,7 +216,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 <br>
 
-# Others
+# <a id="others"></a>Others
 
 ### Professional Services
 
