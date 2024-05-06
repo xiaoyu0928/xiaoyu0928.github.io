@@ -5,6 +5,7 @@
 .main-navigation {
   padding: 10px 0; // Padding for some spacing around links
   width: 100%; // Full width to accommodate longer links or content
+  height: 100%;
 
   ul {
     list-style: none;
@@ -15,7 +16,7 @@
 
   li {
     display: block; // Each link on a new line
-    width: 100%;
+    width: 50%;
     margin-bottom: 10px; // Space between links
   }
 
