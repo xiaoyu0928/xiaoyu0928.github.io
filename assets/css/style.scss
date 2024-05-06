@@ -14,8 +14,8 @@
   }
 
   li {
-    display: block; // Each item appears on a new line
-    width: 100%; // Full width to avoid horizontal alignment
+    //display: block; // Each item appears on a new line
+    //width: 100%; // Full width to avoid horizontal alignment
     margin-bottom: 10px; // Space between links
     border: none; // Ensure no border is applied
     background: none; // Ensure no background different from others
@@ -23,7 +23,7 @@
   }
 
   a {
-    display: block; // Links take up the full width of the list item
+    //display: block; // Links take up the full width of the list item
     text-decoration: none;
     font-weight: bold;
     padding: 10px; // Padding for clickability and appearance
