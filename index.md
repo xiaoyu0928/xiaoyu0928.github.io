@@ -29,8 +29,6 @@ Building #1, East Campus, Shanghai University, Nanchen Rd #333, Baoshan District
 
 Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-chen@shu.edu.cn); [xiaoyu.chen0928@gmail.com](mailto:xiaoyu.chen0928@gmail.com)
 
-> Last Update: January 2024
-
 
 ---
 
@@ -85,7 +83,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
           </a> 
         <ul>
         <li>
-          Bachelor of Business Administrationg (B.B.A), Information Management & Information Systems</li>
+          Bachelor of Business Administration (B.B.A), Information Management & Information Systems</li>
       </ul>      
       </div>
 
@@ -131,7 +129,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 - **Chen, X\*.** (2023). [Investigating users’ sustained information seeking on academic social networking sites](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2022-0219/full/html). ***Aslib Journal of Information Management***,*75*(6),1129-1151.
 - **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://doi.org/10.1108/INTR-07-2020-0378). ***Internet Research***,*32*(3),916-942.[Coverage from [***Information Matters***](https://informationmatters.org/2022/05/who-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china/)**]**
 - Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research***, *43*(3), 101108. 
-- Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). **Canadian Journal of Information and Library Science***,*44* (1): 38-69.
+- Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). ***Canadian Journal of Information and Library Science***,*44* (1): 38-69.
 - Fu, S., **Chen, X\*.,** & Zheng, H. (2021). [Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F0144929X.2020.1716848&sa=D&sntz=1&usg=AOvVaw0mtjOLtYEsALb0bV_dfKqg). ***Behaviour & Information Technology***,*40* (7): 663-675.  ([PPT Slides](https://drive.google.com/file/d/1_23CviQLxQPHFnZwdnR3rirRiYjsdBcT/view?usp=sharing))
 - Li, C., **Chen, X\*.,** & Bi, X*. (2021). [Wearable activity trackers for promoting physical activity: A systematic meta-analytic review](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijmedinf.2021.104487&sa=D&sntz=1&usg=AOvVaw2r43YbT7p6lRrWUxIB-pay). ***International Journal of Medical Informatics***, *152*, 104487. 
 - Zhao, H., Fu, S., & **Chen, X\*.** (2020). [Promoting users’ intention to share health articles on social media: The role of confirmation bias](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ipm.2020.102354&sa=D&sntz=1&usg=AOvVaw3IcDMjLwS4CFv4x8NrW5E2). ***Information Processing & Management***, *57* (6), 102354. (*Note:* authors have equal contribution; **ASIS&T SIG SM Best Paper Award**) ([Recording of the presentation on YouTube](https://youtu.be/4Qw3dBT9NCY)) ([PPT Slides](https://drive.google.com/file/d/1FiznTYRxDeANzrx6WmmujYBL0vDe2pKA/view?usp=sharing))
@@ -144,11 +142,8 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Selected Working Papers
 
-- “Variance of economic returns among knowledge celebrities.” 
-- “Theorizing and validating the perceived attractiveness of knowledge celebrities.” 
 - “Users’ willingness to pay for knowledge products: pay-after-consumption vs. pay-before-consumption.” 
 - “An analysis of online fake news on social media.” 
-- “Searching as learning in online medical Q&A sites.” 
 - "Motivation crowding of knowledge contribution in academic social networking sites."
 
 <br>
@@ -164,7 +159,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 - Zheng, H., **Chen, X.,** & Duan, X. (2019). [An overview of altmetrics research: A typology approach. ](https://www.google.com/url?q=https%3A%2F%2Fwww.springerprofessional.de%2Fen%2Fan-overview-of-altmetrics-research-a-typology-approach%2F17327842&sa=D&sntz=1&usg=AOvVaw3Khgs56SD5iFC9mzl63C3Z)In ***Proceedings of 21st International Conference on Asian Digital Libraries*** *(ICADL 2019)*: pp. 33-39. Springer, Cham. 
 - **Chen, X.**,& Zheng, H. (2019). Who sells knowledge online? Understanding online identities of knowledge influencers on a pay-for-knowledge platform. Paper presented at *the* ***17th Chinese Internet Research Conference*** *(CIRC 2019)*: June 28, 2019: National University of Singapore, Singapore. ([PPT Slides](https://drive.google.com/file/d/18-vOubVQgrdXYdumKalW_WD0w5cQEzQY/view?usp=sharing))
 - **Chen, X.,** Lou, C., & Fu, S. (2018). Analyzing high-quality social media discussion content: an information-seeking and sense-making approach. Paper presented at *the* ***68th Annual Conference of the International Communication Association*** *(ICA 2018)*, Prague, Czech Republic. 
-- Lou, C., Tan, S.S., & **Chen, X.** (2018). [Mining influencer marketing messages: investigating consumer responses to brand- vs. influencer-generated ads. ](https://www.google.com/url?q=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F2136839330%3Fpq-origsite%3Dgscholar%26fromopenview%3Dtrue&sa=D&sntz=1&usg=AOvVaw1UskTSbZrpDwnPsZ2fSVu6)In *Proceedings of the* ***American Academy of Advertising Annual Conference*** *(AAA 2018)*: New York, USA.
+- Lou, C., Tan, S.S., & **Chen, X.** (2018). [Mining influencer marketing messages: investigating consumer responses to brand- vs. influencer-generated ads. ](https://www.google.com/url?q=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F2136839330%3Fpq-origsite%3Dgscholar%26fromopenview%3Dtrue&sa=D&sntz=1&usg=AOvVaw1UskTSbZrpDwnPsZ2fSVu6)In ***Proceedings of the American Academy of Advertising Annual Conference*** *(AAA 2018)*: New York, USA.
 - Kong, W. Y., **Chen, X.,** Bañas Alvarez, K., Ho, S. S., & Cummings, C. L. (2017). [Exploring the impacts of food technology beliefs, evaluations, and media consumption on attitudes toward nanofood in Singapore](https://www.google.com/url?q=https%3A%2F%2Fdr.ntu.edu.sg%2Fbitstream%2F10220%2F44325%2F1%2FExploring-the-Impacts-of-Food-Technology-Beliefs-Evaluations-and-Media-Consumption-on-Attitudes-Toward-Nanofood-in-Singapore.pdf&sa=D&sntz=1&usg=AOvVaw2PDzF5x-r13hdxRmqKZ8BZ). Paper presented at ***6th Annual International Conference on Journalism & Mass Communications*** *(JMComm 2017)*, Singapore.
 
 <br>
@@ -181,15 +176,14 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Instructor,** School of Cultural Heritage and Information Management, Shanghai University
 
-  - Information Collection and Analytics (Undergrad selective, 2022-2023 Autumn Trimester)
-
-    - Course Enrollment: 22
+  - Information Collection and Analytics (Undergrad selective, 2022-2024, Autumn Trimester)
+ 
+  - Information Organization (Undergrad Core, 2023-now, Spring Trimester)
+ 
+  - Research Methods in Library and Information Science (MLIS Core, 2021-now, Winter Trimester)
 
   - Managing Information and Misinformation in the Connected World (Co-teaching with Dr Alton Chua, 2021-2022 Summer School)
     - Course Enrollment: 58
-  
-  - Research Methods in Library and Information Science (MLIS Core, 2021-2022 Winter Trimester)
-    - Course Enrollment: 51
 
 - **Teaching Certificate:** “Recommend to Teach” by Teaching, Learning and Pedagogy Division at Nanyang Technological University
   - Completed 8 Modules for HWG702 University Teaching for Teaching Assistants
@@ -256,19 +250,23 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Ad hoc conference reviewer**
 
-  Annual Meeting of International Communication Association: ICA 2020
+  Annual Meeting of the Association for Information Science & Technology (ASIS&T)
 
-  Annual Meeting of the Association of Internet Researchers: AoIR 2021, AoIR 2022
+  Annual Meeting of International Communication Association (ICA)
 
-  European Conference on Information Systems: ECIS 2022
+  Annual Meeting of the Association of Internet Researchers (AoIR)
 
-  IEEE International Conference on Information Management: ICIM 2021, ICIM 2022
+  European Conference on Information Systems (ECIS)
 
-  International Conference on Information Systems: ICIS 2021
+  iConference
 
-  Pacific Asia Conference on Information Systems: PACIS 2021
+  IEEE International Conference on Information Management (ICIM)
 
-  Wuhan International Conference on E-Business: WHICEB 2021
+  International Conference on Information Systems (ICIS)
+
+  Pacific Asia Conference on Information Systems (PACIS)
+
+  Wuhan International Conference on E-Business (WHICEB)
 
 - **Student Reviewer Training Program:** *Journal of Advertising* (2020 – 2021)
 
@@ -321,6 +319,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 - Debating styles: TV shows, Oregon, and British Parliamentary
 - Language for debates: Mandarin
 
+> Last Update: September 2024
 
 
 
