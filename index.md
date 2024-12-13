@@ -7,7 +7,7 @@ layout: default
 
 ## <a id="about-me"></a>About Me
 
-I'm an Assistant Professor in the Department of Library and Information Studies of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
+I'm an Associate Professor in the Department of Library and Information Studies of the School of Cultural Heritage and Information Management at [Shanghai University](https://apply.shu.edu.cn/), China.
 
 I hold a PhD in Information Studies from [Wee Kim Wee School of Communication and Information](https://www.ntu.edu.sg/wkwsci) of [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/index).
 
@@ -36,8 +36,8 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## <a id="news"></a>News
 
-- One short research paper and one application for the Early Career Colloquium have been accepted by iConference 2024, which will be held in Jilin, China.
-- I won the "Best Paper Award in Sociotechnical Concerns " in the 2023 ASIS&T SIG-ILS International Paper Competition.
+- One of my master's students has had his research poster accepted by iConference 2025, which will be held at Indiana University in the USA.
+- I have been promoted to be Associate Professor of Information Resources Management at Shanghai University.
   
 
 
