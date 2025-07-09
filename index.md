@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Xiaoyu Chen,PhD (陈晓宇)
+# Xiaoyu Chen, PhD (陈晓宇)
 
 <br>
 
@@ -17,7 +17,7 @@ My PhD dissertation studies a particular group of digital influencers who sell s
 
 I hold a master’s degree in Information Science from [Wuhan University](https://en.whu.edu.cn/) and a bachelor’s degree in Information Management & Information Systems from [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
 
-If you are exploring the possibility of doing research in areas similar to my interests and are keen to become a research-active scholar, feel free to drop me a note. I am most happy to bounce off ideas with you.
+If you are exploring the possibility of conducting research in areas related to my interests and are keen to become a research-active scholar, please feel free to drop me a note. I am more than happy to bounce ideas off with you.
 
 Before I went to Singapore to pursue my PhD degree, I had worked at [Xinhua News Agency](https://en.wikipedia.org/wiki/Xinhua_News_Agency), Hubei Branch ( July 2016 - December 2016). 
 
@@ -36,10 +36,9 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## <a id="news"></a>News
 
-- One of my master's students has had his research poster accepted by iConference 2025, which will be held at Indiana University in the USA.
-- I have been promoted to be Associate Professor of Information Resources Management at Shanghai University.
+- I have been a member of the iSchools Asia-Pacific Next Generation Committee since 2025
+- I have been awarded the 2024 Best Reviewer by [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management/about/aims-and-scope)
   
-
 
 
 ---
