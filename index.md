@@ -125,6 +125,8 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Journal Publications (* corresponding author)
 
+- **Chen, X\*** & Chua, A. Y. (online in advance).  [From attraction to monetization: How knowledge influencers trigger users’ willingness to subscribe to knowledge products?](https://doi.org/10.1108/INTR-07-2023-0595). ***Internet Research***.
+- **Chen, X.,** Wang, C., & Zheng,H\*. (2025). [Turning livestreaming viewers into game players: Exploring the impact of game streamers on viewer video game engagement based on an extended means-end chain framework](https://doi.org/10.1080/10447318.2024.2365026). ***International Journal of Human-Computer Interaction***,*41*(9),5648-5662.
 - **Chen, X\*.** (2023). [Investigating users’ sustained information seeking on academic social networking sites](https://www.emerald.com/insight/content/doi/10.1108/AJIM-04-2022-0219/full/html). ***Aslib Journal of Information Management***,*75*(6),1129-1151.
 - **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://doi.org/10.1108/INTR-07-2020-0378). ***Internet Research***,*32*(3),916-942.[Coverage from [***Information Matters***](https://informationmatters.org/2022/05/who-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china/)**]**
 - Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research***, *43*(3), 101108. 
