@@ -1,49 +1,27 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <script>
-      document.querySelectorAll('nav a').forEach(anchor => {
-        anchor.addEventListener('click', function(e) {
-          e.preventDefault();
-          document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-          });
-        });
-      });
-    </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <title>{{ site.title | default: site.github.repository_name }}</title>
+    <meta name="description" content="{{ site.description | default: site.github.project_tagline }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
     <base target="_blank">
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <img src="/xiaoyuchen.jpg" />
+        <img class="profile-photo" src="{{ '/xiaoyuchen.jpg' | relative_url }}" width="220" height="294" alt="Portrait of Xiaoyu Chen" fetchpriority="high">
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-<!--
-        
-        <a href="https://github.com/xiaoyu0928" target="_blank" rel="external" style="padding-left:10px;">
-              <i class="fa fa-github-square fa-2x" aria-hidden="true"></i> </a>
-
--->
-        
-        <a href="https://www.linkedin.com/in/xiaoyu-chen-%E9%99%88%E6%99%93%E5%AE%87-8b1b38103/" target="_blank" rel="external" style="padding-left:10px;">
-                  <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i> </a>
-        <a href="https://scholar.google.com/citations?user=maIxQRMAAAAJ" target="_blank" rel="external" style="padding-left:10px;">
-                  <i class="ai ai-google-scholar-square ai-2x" aria-hidden="true"></i> </a>
-        <a href="https://drive.google.com/file/d/1EV4D-aNRaXTUEz9yqk1QWsrRcOwB2QED/view?usp=drive_link" target="_blank" rel="external" style="padding-left:10px;">
-                  <i class="ai ai-cv ai-2x" aria-hidden="true"></i> </a>
-        
+        <div class="profile-links" aria-label="Profile links">
+          <a href="{{ '/assets/files/Xiaoyu-Chen-CV-July-2026.pdf' | relative_url }}">CV (PDF)</a>
+          <a href="https://github.com/xiaoyu0928" rel="external">GitHub</a>
+          <a href="https://scholar.google.com/citations?user=maIxQRMAAAAJ" rel="external">Google Scholar</a>
+          <a href="https://www.linkedin.com/in/xiaoyu-chen-%E9%99%88%E6%99%93%E5%AE%87-8b1b38103/" rel="external">LinkedIn</a>
+        </div>
         
         {% if site.github.is_project_page %}
           <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
@@ -62,6 +40,7 @@
           <li><a href="#news" target="_self">News</a></li>
           <li><a href="#education" target="_self">Education</a></li>
           <li><a href="#research" target="_self">Research</a></li>
+          <li><a href="#open-science" target="_self">Open Science</a></li>
           <li><a href="#teaching" target="_self">Teaching</a></li>
           <li><a href="#others" target="_self">Others</a></li>
         </ul>
@@ -74,19 +53,5 @@
       </section>
       
     </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
-
-  {% if site.google_analytics %}
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', '{{ site.google_analytics }}', 'auto');
-        ga('send', 'pageview');
-    </script>
-  {% endif %}
   </body>
 </html>

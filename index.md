@@ -111,7 +111,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Chen, X. (2021).** [Study of Online Celebrities Who Sell Knowledge: Perceived Attractiveness and Users Willingness to Pay](https://dr.ntu.edu.sg/handle/10356/152694). Doctoral thesis, Nanyang Technological University, Singapore.
 - **Thesis Advisory Committee:** Alton Chua (WKWSCI); L.G. Pee (WKWSCI); Joanna Sin (WKWSCI), Ben Choi (NBS)
-- **Slides for the oral defense:** [PPT Slides](https://drive.google.com/file/d/1CnIpkU7NGQE9YEZF0EMPQqP8kOJQfVmf/view?usp=sharing)
+- **Slides for the oral defense:** [PPT Slides](/assets/files/PhD-oral-defense-slides.pdf)
 - **Best Dissertation Talk Award**: ASIS&T SIG-KM International Research Symposium 2022
 
 <br>
@@ -160,25 +160,56 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 <br>
 
-### Refereed Conference Papers/Poster
+### Refereed Conference Papers
 
-- **Chen, X.,** He, Y., Zheng, H., Lu, J. (2023). [Audience video game engagement in a live streaming context: Examining the role of perceived influence of game streamers from the self-determination perspective](https://doi.org/10.1007/978-3-031-28032-0_22) In ***Proceedings of 18th International Conference on Information*** *(iConference 2023)*: pp. 257-267.
-- Chua, A.Y., & **Chen, X**. (2022). [Online “helpful” lies: An empirical study of helpfulness in fake and authentic online reviews](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1007%2F978-3-030-96957-8_10&sa=D&sntz=1&usg=AOvVaw1IGLwyuX37Y0kanRzCz-tA). In ***Proceedings of 17th International Conference on Information*** *(iConference 2022)*: pp. 91-99.
-- **Chen, X.,** & Chua, A. Y. (2021). [Exploring the perceived attractiveness of online celebrities who sell knowledge: A self-branding perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.436&sa=D&sntz=1&usg=AOvVaw1NkoBlWADq283nBOQfS8s8). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** (*ASIS&T 2021*): pp. 60-69.
-- Chua, A. Y., & **Chen, X.** (2021). [Analyzing readers' responses to fake news on Facebook](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.532&sa=D&sntz=1&usg=AOvVaw1u6LYaBcWnFoObDoSp4WBf). In ***Proceedings of 84th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2021)*: pp. 694-696.
-- Zheng, H., **Chen, X.,** & Fu, S. (2020). [An exploration of determinants of cyberchondria: A moderated mediation analysis](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1002%2Fpra2.214&sa=D&sntz=1&usg=AOvVaw2fpLNi-zAYjZ8jmA1li5U8). In ***Proceedings of 83rd Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2020)*. 
-- **Chen, X.,** & Chua, A. Y. (2020). [Reviewing the landscape of research on influencer-generated content. ](https://www.google.com/url?q=https%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F9081399&sa=D&sntz=1&usg=AOvVaw1Wb4D_8oMATlLKaYvP3SlQ)In ***Proceedings of 6th International Conference on Information Management*** *(ICIM 2020)*: pp. 244-248. IEEE.
-- Zheng, H., **Chen, X.,** & Duan, X. (2019). [An overview of altmetrics research: A typology approach. ](https://www.google.com/url?q=https%3A%2F%2Fwww.springerprofessional.de%2Fen%2Fan-overview-of-altmetrics-research-a-typology-approach%2F17327842&sa=D&sntz=1&usg=AOvVaw3Khgs56SD5iFC9mzl63C3Z)In ***Proceedings of 21st International Conference on Asian Digital Libraries*** *(ICADL 2019)*: pp. 33-39. Springer, Cham. 
-- **Chen, X.**,& Zheng, H. (2019). Who sells knowledge online? Understanding online identities of knowledge influencers on a pay-for-knowledge platform. Paper presented at *the* ***17th Chinese Internet Research Conference*** *(CIRC 2019)*: June 28, 2019: National University of Singapore, Singapore. ([PPT Slides](https://drive.google.com/file/d/18-vOubVQgrdXYdumKalW_WD0w5cQEzQY/view?usp=sharing))
-- **Chen, X.,** Lou, C., & Fu, S. (2018). Analyzing high-quality social media discussion content: an information-seeking and sense-making approach. Paper presented at *the* ***68th Annual Conference of the International Communication Association*** *(ICA 2018)*, Prague, Czech Republic. 
-- Lou, C., Tan, S.S., & **Chen, X.** (2018). [Mining influencer marketing messages: investigating consumer responses to brand- vs. influencer-generated ads. ](https://www.google.com/url?q=https%3A%2F%2Fsearch.proquest.com%2Fdocview%2F2136839330%3Fpq-origsite%3Dgscholar%26fromopenview%3Dtrue&sa=D&sntz=1&usg=AOvVaw1UskTSbZrpDwnPsZ2fSVu6)In ***Proceedings of the American Academy of Advertising Annual Conference*** *(AAA 2018)*: New York, USA.
-- Kong, W. Y., **Chen, X.,** Bañas Alvarez, K., Ho, S. S., & Cummings, C. L. (2017). [Exploring the impacts of food technology beliefs, evaluations, and media consumption on attitudes toward nanofood in Singapore](https://www.google.com/url?q=https%3A%2F%2Fdr.ntu.edu.sg%2Fbitstream%2F10220%2F44325%2F1%2FExploring-the-Impacts-of-Food-Technology-Beliefs-Evaluations-and-Media-Consumption-on-Attitudes-Toward-Nanofood-in-Singapore.pdf&sa=D&sntz=1&usg=AOvVaw2PDzF5x-r13hdxRmqKZ8BZ). Paper presented at ***6th Annual International Conference on Journalism & Mass Communications*** *(JMComm 2017)*, Singapore.
+- **[C13]** Peng, M., Wang, C., & **Chen, X.** (2025). Impulse buying unleashed: The roles of streamer gender and product type in influencer-led livestream shopping. In ***International Conference on Information Management*** (pp. 32-44). Springer Nature Switzerland. *(My students are the first and second authors.)*
+- **[C12]** Zeng, C., & **Chen, X.** (2024). Will creative labor lost their jobs? A social informatics study of the "No to AI Generated Images" campaign. In ***International Conference on Information Management*** (pp. 93-105). Springer Nature Switzerland. *(My student is the first author.)*
+- **[C11]** **Chen, X.,** & Yang, R. (2024). [Understanding users' decision-making on privacy disclosure from a configurational perspective: Perceived values, privacy concerns, cognitive style, and trust](https://doi.org/10.1007/978-3-031-57850-2_8). In ***Proceedings of the 19th International Conference on Information*** *(iConference 2024)* (pp. 96-105).
+- **[C10]** **Chen, X.,** He, Y., Zheng, H., & Lu, J. (2023). [Audience video game engagement in a live streaming context: Examining the role of perceived influence of game streamers from the self-determination perspective](https://doi.org/10.1007/978-3-031-28032-0_22). In ***Proceedings of the 18th International Conference on Information*** *(iConference 2023)* (pp. 257-267).
+- **[C9]** Chua, A. Y., & **Chen, X.** (2022). [Online "helpful" lies: An empirical study of helpfulness in fake and authentic online reviews](https://doi.org/10.1007/978-3-030-96957-8_10). In ***Proceedings of the 17th International Conference on Information*** *(iConference 2022)* (pp. 91-99).
+- **[C8]** **Chen, X.,** & Chua, A. Y. (2021). [Exploring the perceived attractiveness of online celebrities who sell knowledge: A self-branding perspective](https://doi.org/10.1002/pra2.436). In ***Proceedings of the 84th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2021)* (pp. 60-69).
+- **[C7]** Zheng, H., **Chen, X.,** & Fu, S. (2020). [An exploration of determinants of cyberchondria: A moderated mediation analysis](https://doi.org/10.1002/pra2.214). In ***Proceedings of the 83rd Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2020)*, e214.
+- **[C6]** **Chen, X.,** & Chua, A. Y. (2020). Reviewing the landscape of research on influencer-generated content. In ***Proceedings of the 6th International Conference on Information Management*** *(ICIM 2020)* (pp. 244-248). IEEE. https://doi.org/10.1109/ICIM49319.2020.244706
+- **[C5]** Zheng, H., **Chen, X.,** & Duan, X. (2019). An overview of altmetrics research: A typology approach. In ***Proceedings of the 21st International Conference on Asian Digital Libraries*** *(ICADL 2019)* (pp. 33-39). Springer. https://doi.org/10.1007/978-3-030-34058-2_4
+- **[C4]** **Chen, X.,** & Zheng, H. (2019). Who sells knowledge online? Understanding online identities of knowledge influencers on a pay-for-knowledge platform. Paper presented at the ***17th Chinese Internet Research Conference*** *(CIRC 2019)*, National University of Singapore, Singapore. ([Slides](/assets/files/CIRC-2019-slides.pdf))
+- **[C3]** **Chen, X.,** Lou, C., & Fu, S. (2018). Analyzing high-quality social media discussion content: An information-seeking and sense-making approach. Paper presented at the ***68th Annual Conference of the International Communication Association*** *(ICA 2018)*, Prague, Czech Republic.
+- **[C2]** Lou, C., Tan, S. S., & **Chen, X.** (2018). Mining influencer marketing messages: Investigating consumer responses to brand- vs. influencer-generated ads. In ***Proceedings of the American Academy of Advertising Annual Conference*** *(AAA 2018)*, New York, USA.
+- **[C1]** Kong, W. Y., **Chen, X.,** Bañas Alvarez, K., Ho, S. S., & Cummings, C. L. (2017). Exploring the impacts of food technology beliefs, evaluations, and media consumption on attitudes toward nanofood in Singapore. Paper presented at the ***6th Annual International Conference on Journalism & Mass Communications*** *(JMComm 2017)*, Singapore.
+
+<br>
+
+### Refereed Conference Posters
+
+- **[P5]** Wang, Y., Wang, C., & **Chen, X.** (2025). Does trust matter? Unpacking creative workers' deep use of generative AI in human-AI interaction. Poster presented at ***iConference 2025*** (Virtual Program), Indiana University, USA. *(My students are the first and second authors.)*
+- **[P4]** Zheng, W., **Chen, X.,** & Wang, L. (2024). [Understanding user satisfaction and engagement with an online historical and cultural game from a user experience perspective](https://doi.org/10.1002/pra2.1223). ***Proceedings of the Association for Information Science and Technology***, 61(1), 1177-1179. *(My student is the first author.)*
+- **[P3]** Yang, R., **Chen, X.,** & Fu, S. (2023). Unlocking privacy paradox in social media from a configurational perspective. In ***Proceedings of the 86th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2023)* (pp. 1197-1199). *(My student is the first author.)*
+- **[P2]** He, Y., **Chen, X.,** & Wang, L. (2023). How digital events promote intangible cultural heritage? A user experience perspective. In ***Proceedings of the 86th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2023)* (pp. 974-976). *(My student is the first author.)*
+- **[P1]** Chua, A. Y., & **Chen, X.** (2021). [Analyzing readers' responses to fake news on Facebook](https://doi.org/10.1002/pra2.532). In ***Proceedings of the 84th Annual Meeting of the Association for Information Science and Technology*** *(ASIS&T 2021)* (pp. 694-696).
 
 <br>
 
 ### Refereed Workshop Papers
 
-- **Chen, X.,** & Fu, S. (2019). [Who sells knowledge to you? Understanding online identities of knowledge influencers on a pay-for-knowledge platform](http://www.google.com/url?q=http%3A%2F%2F2019.cswimworkshop.org%2Fwp-content%2Fuploads%2F2017%2F01%2FCSWIM2019-Proceedings-3.pdf&sa=D&sntz=1&usg=AOvVaw0j8JLp8ggf-Aqueaoc3jYh). Paper presented at *the* ***13th China Summer Workshop on Information Management*** *(CSWIM 2019)*: June 29-30, 2019: Shenzhen, China.
+- **[W2]** Yang, R., & **Chen, X.** (2023). Unlocking the privacy paradox on social media platforms from a configurational perspective: Perceived values, privacy concerns, cognitive style and platform trust. Paper presented at the ***2023 ASIS&T Annual Meeting***, London, UK. *(Second Place, SIG-III International Paper Contest Award.)*
+- **[W1]** **Chen, X.,** & Fu, S. (2019). Who sells knowledge to you? Understanding online identities of knowledge influencers on a pay-for-knowledge platform. Paper presented at the ***13th China Summer Workshop on Information Management*** *(CSWIM 2019)*, Shenzhen, China.
+
+<br>
+
+### Doctoral Consortium
+
+- **[DC1]** **Chen, X.** (2021). Online celebrities who sell knowledge: Perceived attractiveness and users' willingness-to-pay. Presented at the ***16th International Conference on Information*** *(iConference 2021)*, Virtual Event, Beijing, China.
+
+---
+
+<br>
+
+# <a id="open-science"></a>Open Science
+
+To support transparent and reusable research, our group is building a GitHub-hosted collection of research data, code, documentation, and legally shareable full-text manuscripts. Materials are released publication by publication, subject to participant consent, research ethics, publisher policies, and third-party data licenses.
+
+- [Browse data and code](https://github.com/xiaoyu0928/xiaoyu0928.github.io/tree/main/open-science/data-and-code)
+- [Browse full-text papers](https://github.com/xiaoyu0928/xiaoyu0928.github.io/tree/main/open-science/papers)
+- [Open Science documentation and contribution guidance](https://github.com/xiaoyu0928/xiaoyu0928.github.io/tree/main/open-science)
 
 ---
 
@@ -186,37 +217,29 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 # <a id="teaching"></a>Teaching
 
-- **Instructor,** School of Cultural Heritage and Information Management, Shanghai University
+- **Instructor, School of Cultural Heritage and Information Management, Shanghai University**
+  - Information Organization (Undergraduate core)
+  - Human Information Behaviour (Undergraduate selective)
+  - Managing Information and Misinformation in a Connected World (Undergraduate selective; co-taught with Dr Alton Chua, 2021-2022 Summer School)
+  - Research Methods of Library and Information Studies (MLIS core)
+  - Information Organization and Retrieval (Master of Research core)
 
-  - Information Collection and Analytics (Undergrad selective, 2022-2024, Autumn Trimester)
- 
-  - Information Organization (Undergrad Core, 2023-now, Spring Trimester)
- 
-  - Research Methods in Library and Information Science (MLIS Core, 2021-now, Winter Trimester)
+- **Teaching Certificate:** "Recommend to Teach" by the Teaching, Learning and Pedagogy Division at Nanyang Technological University
 
-  - Managing Information and Misinformation in the Connected World (Co-teaching with Dr Alton Chua, 2021-2022 Summer School)
-    - Course Enrollment: 58
+- **Instructor, Wee Kim Wee School of Communication & Information, Nanyang Technological University**
+  - Fundamentals of Research (Undergraduate core, Jan 2020-May 2020)
+  - Class size: 36
+  - Teaching feedback: 4.62/5.00
 
-- **Teaching Certificate:** “Recommend to Teach” by Teaching, Learning and Pedagogy Division at Nanyang Technological University
-  - Completed 8 Modules for HWG702 University Teaching for Teaching Assistants
+- **Teaching Assistant, Wee Kim Wee School of Communication & Information, Nanyang Technological University**
+  - Make Sense of Big Data (Undergraduate core, Aug 2020-Dec 2020)
+  - Foundation of Information Analytics (Undergraduate core, Aug 2019-Dec 2019; Jan 2019-May 2019)
+  - Knowledge Management Practices & Implementation (Master of Knowledge Management core, Aug 2018-Dec 2018)
+  - Web Design & Technologies (Undergraduate core, Jan 2018-May 2018)
+  - Media & Society in the Digital Age (Undergraduate selective, Aug 2017-Dec 2017)
 
-- **Instructor,** Wee Kim Wee School of Communication & Information, Nanyang Technological University 
-  - Fundamentals of Research (Undergraduate Core, Jan 2020 – May 2020)
-    - Course Enrollment: 36
-    - Teaching Evaluation: 4.62/5.00
-    - [Teaching Feedback Report](https://drive.google.com/file/d/1oiC-9B0gDmUeH6EiBDbg-lCqCK9W7xfQ/view?usp=sharing)
-
-- **Teaching Assistant,** Wee Kim Wee School of Communication & Information, Nanyang Technological University
-  - Make Sense of Big Data (Undergraduate Core, Aug 2020 - Dec 2020; Instructor: A/P Dion Goh)
-  - Foundation of information analytics (Undergraduate Core, Aug 2019 - Dec 2019; Jan 2019 - May 2019; Instructor: Dr Lee Chu Keong)
-  - Knowledge Management Practices & Implementation (Master of Knowledge Management Core, Aug 2018 - Dec 2018; Instructor: Asst/P L.G. Pee)
-  - Web Design & Technologies (Undergraduate Core, Jan 2018 - May 2018; Instructor: Mr Ruben Png)
-  - Media & Society in the Digital Age (Undergraduate Selective, Aug 2018 - Dec 2017; Instructor: A/P Brendan Luyt)
-
-- **Teaching assistant,** Department of Information Management Science, Wuhan University
-  - Human Information Behavior (Postgraduate Selective, 2014 - 2016; Instructor: Prof. Deng Shengli)
-
-
+- **Teaching Assistant, Department of Information Management Science, Wuhan University**
+  - Human Information Behaviour (Postgraduate selective, 2014-2016)
 
 ---
 
@@ -226,94 +249,104 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Professional Services
 
-- **Nanyang Technological University**
+- **Technical Program Committee Member**
+  - International Conference on Information Management (ICIM)
+  - European Advanced Educational Technology Conference (EAET)
+  - International Conference on E-Business and Internet (ICEBI)
+  - International Conference on Asian Digital Libraries (ICADL)
 
-  Residential Mentor of Hall of Residence 13 (August 2019 - July 2021)
+- **Academic and Professional Leadership**
+  - ASIS&T Social Media Chapter, Communication Officer (2020-2021)
+  - ASIS&T Asia Chapter, Webmaster (2024-current)
+  - Member of the iSchools Asia-Pacific Next Generation Committee (2025-current)
 
-  Master Theses Supervision (AY 2019 - 2020; AY 2020 - 2021)
+- **Editorial Review Board**
+  - *Information Processing & Management* (2025-current)
+  - *Scientific Reports* (2024-current)
+  - *Creator and Influencer Studies* (2026-current)
 
-- **Association for Information Science and Technology (ASIS&T)**
+- **Ad hoc Journal Reviewer**
+  - *ACM Journal on Responsible Computing* (2025)
+  - *Applied Economics* (2024)
+  - *Aslib Journal of Information Management* (2018-current)
+  - *Australasian Journal of Information Systems* (2022)
+  - *Behaviour & Information Technology* (2023-current)
+  - *Computers & Education* (2025)
+  - *Computers in Human Behavior* (2019-current)
+  - *Data and Information Management* (2023-current)
+  - *Decision Support Systems* (2022-current)
+  - *Digital Health* (2022-current)
+  - *Digital Transformation and Society* (2022-current)
+  - *Electronic Commerce Research* (2025-current)
+  - *Electronic Commerce Research and Applications* (2022-current)
+  - *The Electronic Library* (2025-current)
+  - *European Journal of Information Systems* (2025)
+  - *The Lancet Digital Health* (2022)
+  - *Frontiers in Psychology* (2021-2022)
+  - *History Archives* (2026-current)
+  - *Industrial Management & Data Systems* (2023-current)
+  - *Information & Management* (2021-current)
+  - *Information Processing & Management* (2020-2024)
+  - *Information Technology & People* (2021-current)
+  - *International Journal of Human-Computer Interaction* (2024-current)
+  - *International Journal of Human-Computer Studies* (2026)
+  - *International Journal of Medical Informatics* (2025)
+  - *Internet Research* (2021-current)
+  - *Journal of Advertising* (2021)
+  - *Journal of the Association for Information Science and Technology (JASIST)* (2021-current)
+  - *Journal of Consumer Behaviour* (2020-2021)
+  - *Journal of Information Science* (2022-current)
+  - *Journal of Interactive Advertising* (2021)
+  - *Journal of Medical Internet Research* (2022)
+  - *Journal of Systems and Information Technology* (2017-2019)
+  - *Knowledge Management Research & Practice* (2019-2020)
+  - *Library & Information Science Research* (2025-current)
+  - *Online Information Review* (2019)
+  - *Social Sciences & Humanities Open* (2024)
+  - *Social Science & Medicine* (2024)
+  - *Sustainable Futures* (2025)
+  - *Telecommunications Policy* (2025-current)
+  - *Telematics and Informatics* (2024-current)
 
-  Board member (Communication Officer) at ASIS&T Special Interest Group for Social Media (2020 - 2021)
+- **Ad hoc Conference Reviewer**
+  - Association of Internet Researchers Annual Conference: AoIR 2021, 2022, 2023
+  - Association for Information Science & Technology Annual Meeting: ASIS&T 2023, 2024, 2025, 2026
+  - European Conference on Information Systems: ECIS 2023, 2024
+  - Hawaii International Conference on System Sciences: HICSS 2024
+  - International Conference on Information: iConference 2023, 2024, 2025, 2026
+  - International Communication Association Annual Meeting: ICA 2020, 2023
+  - IEEE International Conference on Information Management: ICIM 2021, 2022, 2023, 2024
+  - International Conference on Information Systems: ICIS 2021, 2023, 2024
+  - Pacific Asia Conference on Information Systems: PACIS 2021, 2023, 2024, 2026
+  - Wuhan International Conference on E-Business: WHICEB 2021, 2024, 2025
 
-- **Ad hoc journal reviewer** 
-
-  *Journal of the Association for Information Science and Technology* (*JASIST*)
-
-  *Aslib Journal of Information Management*
-
-  *Behaviour & Information Technology*
-
-  Computers in Human Behavior
-
-  *Information Processing & Management*
-
-  *Information Technology & People*
-
-  *Internet Research*
-
-  *Knowledge Management Research & Practice*
-
-  *Journal of Advertising*
-
-  *Journal of Interactive Advertising*
-
-  *Journal of Consumer Behaviour*
-
-- **Ad hoc conference reviewer**
-
-  Annual Meeting of the Association for Information Science & Technology (ASIS&T)
-
-  Annual Meeting of International Communication Association (ICA)
-
-  Annual Meeting of the Association of Internet Researchers (AoIR)
-
-  European Conference on Information Systems (ECIS)
-
-  iConference
-
-  IEEE International Conference on Information Management (ICIM)
-
-  International Conference on Information Systems (ICIS)
-
-  Pacific Asia Conference on Information Systems (PACIS)
-
-  Wuhan International Conference on E-Business (WHICEB)
-
-- **Student Reviewer Training Program:** *Journal of Advertising* (2020 – 2021)
-
-- ***MIS Quarterly*** **(MISQ) Virtual Reviewer Development Workshop:** MISQ Reviewer Trainee (Dec 15, 2020)
+- **Reviewer Development**
+  - Student Reviewer Training Program, *Journal of Advertising* (2020-2021)
+  - *MIS Quarterly* Virtual Reviewer Development Workshop (5 Dec 2020)
 
 - **Membership**
+  - Academy of Management (AoM)
+  - American Academy of Advertising (AAA)
+  - Association for Information Science & Technology (ASIS&T)
+  - Association for Information Systems (AIS)
+  - Association of Internet Researchers (AoIR)
 
-  *Academy of Management (AoM)*
-
-  *American Academy of Advertising (AAA)*
-
-  *Association for Information Science & Technology (ASIS&T)*
-
-  *Association for Information Systems (AIS)*
-
-  *Association of Internet Researchers (AoIR)*
-
-- **Technical Program Committee Member**
-
-  International Conference on Information Management (ICIM)
-
-  European Advanced Educational Technology Conference (EAET)
-
-  International Conference on E-Business and Internet (ICEBI)
+- **Student Supervision and University Service**
+  - Shanghai University: Undergraduate Innovation Project Supervision; Master Theses Supervision
+  - Nanyang Technological University: Residential Mentor, Hall of Residence 13 (Aug 2019-Jul 2021); Master Theses Supervision (AY 2019-2020; AY 2020-2021)
 
 ### Awards & Honors
 
-- ASIS&T SIG-ILS Paper Completion, Best Paper Award in Sociotechnical Concerns (2023)
+- DIM Best Reviewer Award, *Data and Information Management* (2024)
+- Best Poster Reviewer at the ASIS&T Annual Meeting, 2nd Place (2024)
+- ASIS&T SIG-ILS Paper Competition, Best Paper Award in Sociotechnical Concerns (2023)
 - ASIS&T SIG-III International Paper Contest Award, 2nd Place (2023)
-- Shanghai Leading Talents (Overseas) Project (2022)
+- Shanghai Leading Talents Project (Overseas) (2022)
 - Shanghai University Early Career Research Award (2022)
 - ASIS&T SIG-KM Symposium Best Dissertation Talk (2022)
 - Chinese Government Award for Outstanding Self-financed Students Abroad (2021)
 - ASIS&T SIG-SM Inaugural Best Paper Award-Winner (2021)
-- Research Scholarship Awarded by Nanyang Technological University (2017 – 2021)
+- Research Scholarship Awarded by Nanyang Technological University (2017-2021)
 
 ### Hobbies
 
@@ -332,7 +365,6 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 - Language for debates: Mandarin
 
 > Last Update: July 2026
-
 
 
 
