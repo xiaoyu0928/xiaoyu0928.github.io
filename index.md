@@ -36,10 +36,8 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 
 ## <a id="news"></a>News
 
-- I have been a member of the iSchools Asia-Pacific Next Generation Committee since 2025
-- I have been awarded the 2024 Best Reviewer by [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management/about/aims-and-scope)
-  
-
+- Academic posters by two master's students under my supervision have been accepted for presentation at the 2026 ASIS&T Annual Meeting.
+- I welcomed a baby girl into my family.
 
 ---
 
