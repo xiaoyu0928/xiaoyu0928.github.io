@@ -13,9 +13,9 @@ I hold a PhD in Information Studies from [Wee Kim Wee School of Communication an
 
 My research interests focus on ***3U***, namely, user information behavior, user cyberpsychology, and user-generated content, particularly in the context of digital technologies. 
 
-My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://www.ntu.edu.sg/index)and [Dr. L.G. Pee](https://personal.ntu.edu.sg/peelg/). 
+My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://dr.ntu.edu.sg/entities/person/Alton-Chua-Yeow-Kuan)and [Dr. L.G. Pee](https://dr.ntu.edu.sg/entities/person/Pee-Loo-Geok). 
 
-I hold a master’s degree in Information Science from [Wuhan University](https://en.whu.edu.cn/) and a bachelor’s degree in Information Management & Information Systems from [Huazhong Agricultural University](https://www.hzau.edu.cn/en/HOME.htm), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
+I hold a master’s degree in Information Science from [Wuhan University](https://en.whu.edu.cn/) and a bachelor’s degree in Information Management & Information Systems from [Huazhong Agricultural University](https://en.hzau.edu.cn/), both of which are based in [Wuhan](https://en.wikipedia.org/wiki/Wuhan), a City of Punk in China.
 
 If you are exploring the possibility of conducting research in areas related to my interests and are keen to become a research-active scholar, please feel free to drop me a note. I am more than happy to bounce ideas off with you.
 
@@ -75,7 +75,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
       </div>
 <div align="left">
         <strong> Huazhong Agricultural University, China (Sep 2009 - Jun 2013) </strong>
-          <a href="http://www.hzau.edu.cn/en/HOME.htm" target="_blank" rel="external">
+          <a href="https://en.hzau.edu.cn/" target="_blank" rel="external">
             <img border="0" src="hzau.png" align="right" width="70" height="70">
           </a> 
         <ul>
@@ -157,9 +157,11 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Selected Working Papers
 
-- “Users’ willingness to pay for knowledge products: pay-after-consumption vs. pay-before-consumption.” 
-- “An analysis of online fake news on social media.” 
-- "Motivation crowding of knowledge contribution in academic social networking sites."
+- “Cultural and creative work in the age of AI”
+- “Information production and information value in the age of AI”
+- “Influencer marketing in the age of AI”
+- “Disinformation and misinformation in the age of AI”
+- “Cultural heritage informatics and tourism in the age of AI”
 
 <br>
 
