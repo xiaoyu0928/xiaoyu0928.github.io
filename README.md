@@ -1,5 +1,5 @@
 ##  xiaoyu0928.github.io
 
-Associate Professor at Shanghai University
+Associate Professor of School of Cultural Heritage and Information Management at Shanghai University
 
-Xiaoyu Chen, PhD
+Xiaoyu Chen,PhD
