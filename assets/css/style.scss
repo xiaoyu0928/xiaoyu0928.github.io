@@ -16,14 +16,75 @@ html {
 
 .profile-links {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
-  gap: 6px 10px;
+  gap: 7px;
   margin: 0 0 18px;
 
   a {
     font-size: 12px;
     font-weight: 700;
   }
+
+  .cv-link {
+    margin-right: 3px;
+  }
+
+  .profile-icon-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 28px;
+    height: 28px;
+    border-radius: 6px;
+    line-height: 1;
+    text-decoration: none;
+    transition: background-color 0.16s ease, opacity 0.16s ease, transform 0.16s ease;
+
+    &:hover,
+    &:focus {
+      background: #eef4f8;
+      opacity: 0.82;
+      outline: none;
+      transform: translateY(-1px);
+    }
+
+    &:focus-visible {
+      box-shadow: 0 0 0 2px #267cb9;
+    }
+  }
+
+  .profile-icon-link--github {
+    color: #24292f;
+  }
+
+  .profile-icon-link--scholar {
+    color: #4285f4;
+  }
+
+  .profile-icon-link--linkedin {
+    color: #0a66c2;
+  }
+
+  .profile-icon {
+    display: block;
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+  }
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
 }
 
 .main-navigation {

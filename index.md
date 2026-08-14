@@ -369,7 +369,7 @@ To support transparent and reusable research, our group is building a GitHub-hos
 - Debating styles: TV shows, Oregon, and British Parliamentary
 - Language for debates: Mandarin
 
-> Last Update: July 2026
+> Last Update: August 2026
 
 
 
