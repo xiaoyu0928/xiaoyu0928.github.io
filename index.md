@@ -195,7 +195,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 ### Refereed Workshop Papers
 
-- **[W2]** Yang, R., & **Chen, X.** (2023). Unlocking the privacy paradox on social media platforms from a configurational perspective: Perceived values, privacy concerns, cognitive style and platform trust. Paper presented at the ***2023 ASIS&T Annual Meeting***, London, UK. *(Second Place, SIG-III International Paper Contest Award.)*
+- **[W2]** Yang, R., & **Chen, X.** (2023). Unlocking the privacy paradox on social media platforms from a configurational perspective: Perceived values, privacy concerns, cognitive style and platform trust. Paper presented at the ***2023 ASIS&T Annual Meeting***, London, UK. *(Runner-up, SIG-III International Paper Contest Award.)*
 - **[W1]** **Chen, X.,** & Fu, S. (2019). Who sells knowledge to you? Understanding online identities of knowledge influencers on a pay-for-knowledge platform. Paper presented at the ***13th China Summer Workshop on Information Management*** *(CSWIM 2019)*, Shenzhen, China.
 
 <br>
