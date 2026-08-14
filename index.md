@@ -11,7 +11,7 @@ I'm an Associate Professor in the Department of Library and Information Studies 
 
 I hold a PhD in Information Studies from [Wee Kim Wee School of Communication and Information](https://www.ntu.edu.sg/wkwsci) of [Nanyang Technological University, Singapore](https://www.ntu.edu.sg/index).
 
-My research interests focus on ***3U***, namely, user information behavior, user cyberpsychology, and user-generated content, particularly in the context of digital technologies. 
+My research interests focus on ***3U***, namely, user information behavior, user cyberpsychology, and user-generated content, particularly in the context of digital technologies. My current work also examines the AI-enabled creation of digital cultural content and the associated consumption experiences, the role of large language models in advancing knowledge production in the humanities and social sciences, and data governance and intelligent decision-making. 
 
 My PhD dissertation studies a particular group of digital influencers who sell self-created knowledge products in an online environment. My dissertation is being jointly supervised by [Dr. Alton Y.K. Chua ](https://dr.ntu.edu.sg/entities/person/Alton-Chua-Yeow-Kuan)and [Dr. L.G. Pee](https://dr.ntu.edu.sg/entities/person/Pee-Loo-Geok). 
 
