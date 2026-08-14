@@ -343,14 +343,14 @@ To support transparent and reusable research, our group is building a GitHub-hos
 ### Awards & Honors
 
 - DIM Best Reviewer Award, *Data and Information Management* (2024)
-- Best Poster Reviewer at the ASIS&T Annual Meeting, 2nd Place (2024)
+- Best Poster Reviewer at the ASIS&T Annual Meeting, Runner-up (2024)
 - ASIS&T SIG-ILS Paper Competition, Best Paper Award in Sociotechnical Concerns (2023)
-- ASIS&T SIG-III International Paper Contest Award, 2nd Place (2023)
+- ASIS&T SIG-III International Paper Contest Award, Runner-up (2023)
 - Shanghai Leading Talents Project (Overseas) (2022)
 - Shanghai University Early Career Research Award (2022)
 - ASIS&T SIG-KM Symposium Best Dissertation Talk (2022)
 - Chinese Government Award for Outstanding Self-financed Students Abroad (2021)
-- ASIS&T SIG-SM Inaugural Best Paper Award-Winner (2021)
+- ASIS&T SIG-SM Inaugural Best Paper Award, Winner (2021)
 - Research Scholarship Awarded by Nanyang Technological University (2017-2021)
 
 ### Hobbies
@@ -365,7 +365,7 @@ To support transparent and reusable research, our group is building a GitHub-hos
 
 ### Expertise
 
-- Debates: I had 7-year debating experience in competitions and coaching
+- Debates: I have 7 years of debating experience in competitions and coaching
 - Debating styles: TV shows, Oregon, and British Parliamentary
 - Language for debates: Mandarin
 
